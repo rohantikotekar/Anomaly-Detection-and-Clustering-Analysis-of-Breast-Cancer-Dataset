@@ -1,4 +1,4 @@
-# BreastCancer-AI
+# Anomaly Detection and Clustering Analysis of Breast Cancer Dataset
 
 > **Advanced unsupervised learning pipeline utilizing Isolation Forest and KMeans++ to achieve high-precision diagnostic clustering, featuring dynamic anomaly thresholding and automated dimensionality reduction.**
 
